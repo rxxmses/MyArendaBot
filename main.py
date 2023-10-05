@@ -7,6 +7,7 @@ import time
 import sqlite3
 
 bot = telebot.TeleBot("123:AbC")
+
 def check_ad(json_file, chat_id):
     current_datetime = datetime.now()
     current_datetime = current_datetime.replace(microsecond=0)
