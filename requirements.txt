@@ -1,0 +1,6 @@
+telebot
+re
+requests
+beautifulsoup4
+datetime
+sqlite3
